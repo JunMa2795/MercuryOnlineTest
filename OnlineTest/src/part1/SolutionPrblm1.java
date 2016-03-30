@@ -9,7 +9,7 @@ package part1;
  */
 
 import java.util.*;
-//haha
+
 public class SolutionPrblm1 
 {
 
@@ -18,7 +18,6 @@ public class SolutionPrblm1
         // TODO Auto-generated method stub
         String input = "aabbcbbdeea";
         helper(input);
-        System.out.println("NewChangetoGitHub");
     }
 
     // Method to count the frequency of the characters as well as sorting in input string
